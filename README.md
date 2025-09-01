@@ -11,6 +11,11 @@ planet, tha capybara.
   <img src="assets/CapyPic.jpeg" alt="Capybara Mascot" width="300"/>
 </p>
 
+## General Functions
+
+Functions that are used across multilple projects are stored in the 
+CaPy (python functions) and CapybaRa (R functions) projects.
+
 ## Disclaimer
 
 This is a personal project. It is **not affiliated with, endorsed by, 
