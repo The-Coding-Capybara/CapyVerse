@@ -135,14 +135,15 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+**/.env
+**/.envrc
+**/.venv
+**/env/
+**/venv/
+**/ENV/
+**/env.bak/
+**/venv.bak/
+**/.idea/
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +206,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- R / RStudio ---
+**/.Rhistory
+**/.RData
+**/.Ruserdata
+**/.Rproj.user/
+
+**/.Rhistory
+**/.RData
+**/.Ruserdata
+**/.Rproj.user/
+
+# renv: keep lockfile + activate.R, ignore the machine-specific libs
+**/renv/library/
+
+# macOS Finder settings
+.DS_Store
