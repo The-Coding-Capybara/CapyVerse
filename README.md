@@ -16,6 +16,17 @@ planet, tha capybara.
 Functions that are used across multilple projects are stored in the 
 CaPy (python functions) and CapybaRa (R functions) projects.
 
+## Credentials
+
+The projects in this repository use several APIs to get data, some
+of which require credentials to be parsed. All credentials should be
+saved in the Credentials directory. Please use the example .ini files
+to set up your own credentials to these APIs, when you have entered
+your own credentials please remove the '-example' from the name of 
+the .ini file. These are in the .gitignore so should not make it to
+the repository.
+
+
 ## Disclaimer
 
 This is a personal project. It is **not affiliated with, endorsed by, 
