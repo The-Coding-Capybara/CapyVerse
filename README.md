@@ -11,10 +11,10 @@ planet, tha capybara.
   <img src="assets/CapyPic.jpeg" alt="Capybara Mascot" width="300"/>
 </p>
 
-## General Functions
+## Shared Functions
 
-Functions that are used across multilple projects are stored in the 
-CaPy (python functions) and CapybaRa (R functions) projects.
+Functions that are used across multilple projects are stored in the shared 
+directory, this includes CaPy (for python functions) and CapybaRa (R functions).
 
 ## Credentials
 
@@ -30,7 +30,7 @@ the repository.
 ## Disclaimer
 
 This is a personal project. It is **not affiliated with, endorsed by, 
-or produced on behalf of my employer**.
+or produced on behalf of my current or any former employer**.
 I have **not used any confidential or proprietary information** from my
 employer. No licensed or restricted data (e.g., Bloomberg/ Refinitiv 
 Datastream/ internal systems) is used here. Data used is public/open
